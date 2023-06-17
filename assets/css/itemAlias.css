@@ -1,0 +1,22 @@
+.wrapper__item__alias {
+    max-width: 1200px;
+    margin: 50px auto;
+    text-align: center;
+    
+}
+.item__alias h1 {
+    margin-bottom: 8px;
+    font-size: 26px;
+    font-weight: 900;
+}
+.item__alias p {
+    margin-top: 24px;
+    font-size: 18px;
+}
+.button__home {
+    background-color: #ec9b3b;
+    padding: 20px 60px;
+    border-radius: 25px;
+    margin-top: 50px;
+    color: #fff;
+}

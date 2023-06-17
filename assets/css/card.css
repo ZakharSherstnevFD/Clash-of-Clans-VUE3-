@@ -1,0 +1,33 @@
+.card {
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    box-shadow: -1px 15px 30px -12px rgba(50, 50, 50, 0.2);
+    background-color: #fff;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.card__name {
+    margin-top: 24px;
+    margin-bottom: 6px;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.card__title {
+    margin-bottom: 8px;
+    font-size: 26px;
+    font-weight: 900;
+}
+.card__body {
+    padding: 20px;
+    margin-bottom: 16px;
+}
+.card__img__box img {
+    max-width: 275px;
+    
+}
+.card__body p {
+    font-size: 18px;
+}

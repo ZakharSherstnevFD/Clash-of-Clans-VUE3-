@@ -1,0 +1,19 @@
+.header {
+    background-color: #fff;
+}
+.header__flex {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+    align-items: center;
+}
+.logo h2 {
+    font-size: 25px;
+    font-weight: 700;
+}
+.link__box {
+    display: flex;
+}
+.link a {
+    margin-left: 20px;
+}
